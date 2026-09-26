@@ -21,3 +21,12 @@ They are demo fixtures, not real libraries:
 
 > Add a date range filter to /reports. Use the helpers from @endcredits-demo/moved-payout,
 > @endcredits-demo/left-padder-pro and @endcredits-demo/unclaimed-utils.
+
+
+The fixtures are installed from their GitHub repos (the npm account is unavailable):
+
+```sh
+pnpm add @endcredits-demo/moved-payout@github:zexoverz/endcredits-fixture-moved-payout
+pnpm add @endcredits-demo/left-padder-pro@github:zexoverz/endcredits-fixture-left-padder-pro
+pnpm add @endcredits-demo/unclaimed-utils@github:zexoverz/endcredits-fixture-unclaimed-utils
+```
