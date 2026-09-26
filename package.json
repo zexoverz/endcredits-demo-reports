@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@endcredits-demo/left-padder-pro": "github:zexoverz/endcredits-fixture-left-padder-pro",
+    "@endcredits-demo/moved-payout": "github:zexoverz/endcredits-fixture-moved-payout",
+    "@endcredits-demo/unclaimed-utils": "github:zexoverz/endcredits-fixture-unclaimed-utils",
     "@tanstack/react-query": "^5.103.3",
     "date-fns": "^4.4.0",
     "next": "16.3.6",
